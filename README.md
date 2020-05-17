@@ -8,4 +8,6 @@ instructions/helps....
 
 2)make a dataset folder and put the all csv /Excal file in that folder 
 
+3)then start your work.....
+
 
